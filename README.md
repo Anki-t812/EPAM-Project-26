@@ -8,4 +8,4 @@ build a dynamic and interactive webpage that caters specifically to the needs of
 - Customer ID validation
 - Coupon generation
 ### Live Demo
-https://anki-t812.github.io/EPAM-Project-26/XYZ-Bank/
+https://anki-t812.github.io/EPAM-Project-26/Assignment-1-XYZ-Bank/
