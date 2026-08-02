@@ -1,0 +1,44 @@
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: #FFE2E2;
+  margin-top: 50px;
+}
+h2{
+  text-align: center;
+  color:darkblue;
+}
+#instructions{
+  width: 400px;
+  padding: 15px;
+  border: 2px solid black;
+  background-color: #F5CBCB;
+}
+button{
+  padding: 8px 15px;
+  background-color: #C5B3D3;
+  color: black;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover{
+    background-color: #709ee4;
+}
+
+input{
+    padding: 8px;
+    width: 250px;
+}
+
+#popup{
+  display: none;
+  width: 300px;
+  padding: 20px;
+  border: 2px solid black;
+  background-color: white;
+  position:fixed;
+  top: 35%;
+  left: 40%;
+  text-align: center;
+
+}
